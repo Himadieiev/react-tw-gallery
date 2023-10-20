@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tw-gallery/static/css/main.66aaa898.css",
+    "main.js": "/react-tw-gallery/static/js/main.d1420daf.js",
+    "index.html": "/react-tw-gallery/index.html",
+    "main.66aaa898.css.map": "/react-tw-gallery/static/css/main.66aaa898.css.map",
+    "main.d1420daf.js.map": "/react-tw-gallery/static/js/main.d1420daf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66aaa898.css",
+    "static/js/main.d1420daf.js"
+  ]
+}
